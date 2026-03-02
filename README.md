@@ -1,5 +1,5 @@
-<h2 align="center">⚡ Rushikesh Dhawale ⚡</h2>
-<p align="center"><b>Backend-Focused Full Stack Developer</b></p>
+<h2 align="center">⚡ DOMAIN  EXPANSION CODER WORLD⚡</h2>
+<p align="center">I’m <b>Rushikesh</b>, a design engineer based in India. I like building clean, modern interfaces with smooth animations and keeping things simple.</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=170&section=header&text=Limitless%20Mode:%20Engineer&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
