@@ -27,6 +27,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-Active-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Commits-Consistent-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Focused-5B21B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-Learner-4C1D95?style=for-the-badge"/>
+</p>
+
+<p align="center">
 
   <a href="mailto:dhawalerushikesh22@gmail.com">
     <img src="https://img.shields.io/badge/Email-312E81?style=flat-square&logo=gmail&logoColor=white"/>
