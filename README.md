@@ -1,4 +1,4 @@
-<h2 align="center">🕯️ Welcome To Lord Of The Mysteries 🕯️</h2>
+<h2 align="center">🕯️ HELLO THERE! 🕯️</h2>
 <p align="center">Hi I'm <b>Rushikesh</b> Seeker of the Architect Pathway, a design engineer based in India. I like building clean, modern interfaces with smooth animations and keeping things simple.</p>
 
 <p align="center">
