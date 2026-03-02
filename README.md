@@ -2,7 +2,7 @@
 <h3 align="center">Backend Architect in Progress</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="35%" />
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="20%" />
 </p>
 
 <p align="center">
