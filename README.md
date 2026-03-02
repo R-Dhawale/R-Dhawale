@@ -1,5 +1,5 @@
 <h2 align="center">🕯️ HELLO THERE! 🕯️</h2>
-<p align="center">Hi I'm <b>Rushikesh</b> Seeker of the Architect Pathway, a design engineer based in India. I like building clean, modern interfaces with smooth animations and keeping things simple.</p>
+<p align="center">I'm <b>Rushikesh</b> Seeker of the Architect Pathway, a design engineer based in India. I like building clean, modern interfaces with smooth animations and keeping things simple.</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0C2A,50:1F1C4D,100:0F0C29&height=180&section=header&text=The%20Tarot%20Club%20:%20Architect%20Pathway&fontSize=24&fontColor=DDD6FE&animation=twinkling"/>
