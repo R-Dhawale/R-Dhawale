@@ -1,41 +1,47 @@
-<h2 align="center">⚡ DOMAIN  EXPANSION CODER WORLD⚡</h2>
-<p align="center">I’m <b>Rushikesh</b>, a design engineer based in India. I like building clean, modern interfaces with smooth animations and keeping things simple.</p>
+<h2 align="center">🕯️ Welcome To Lord Of The Mysteries 🕯️</h2>
+<p align="center">Hi I'm <b>Rushikesh</b> Seeker of the Architect Pathway, a design engineer based in India. I like building clean, modern interfaces with smooth animations and keeping things simple.</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=170&section=header&text=Limitless%20Mode:%20Engineer&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=500&lines=Domain+Expansion:+Scalable+Systems;React+%2B+Node.js+Engineer;System+Design+Learner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0C2A,50:1F1C4D,100:0F0C29&height=180&section=header&text=The%20Tarot%20Club%20:%20Architect%20Pathway&fontSize=24&fontColor=DDD6FE&animation=twinkling"/>
 </p>
 
 <p align="center">
-  Backend developer building scalable APIs and production-ready systems.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+Scalable+Systems;Mastering+Clean+Architecture;Backend+Pathway+Advancement;Knowledge+Is+Power." />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,ts,js,mysql,git,docker" height="40"/>
+  Backend engineer walking the pathway of scalable APIs and production-grade systems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=R-Dhawale&show_icons=true&theme=tokyonight&hide_border=true" height="120"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Dhawale&theme=tokyonight&hide_border=true" height="120"/>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,ts,js,mysql,git,docker" height="38"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R-Dhawale&label=Visitors&color=7F00FF&style=flat"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=R-Dhawale&show_icons=true&theme=tokyonight&hide_border=true" height="115"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Dhawale&theme=tokyonight&hide_border=true" height="115"/>
 </p>
 
-<p align="center" style="padding:10px 0;">
-  <a href="mailto:dhawalerushikesh22@gmail.com" style="padding:10px 0;">
-    <img src="https://img.shields.io/badge/Email-7F00FF?style=flat-square&logo=gmail&logoColor=white"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=R-Dhawale&label=Observers&color=4C1D95&style=flat"/>
+</p>
+
+<p align="center">
+
+  <a href="mailto:dhawalerushikesh22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-312E81?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rushikesh-dhawale-573772328/" style="padding:10px 0;">
-    <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=flat-square&logo=linkedin&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rushikesh-dhawale-573772328/">
+    <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/RushiDhawale_" style="padding:10px 0;">
+  &nbsp;
+  <a href="https://x.com/RushiDhawale_">
     <img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/rushikeshdhawale_/" style="padding:10px 0;">
-    <img src="https://img.shields.io/badge/Instagram-C026D3?style=flat-square&logo=instagram&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.instagram.com/rushikeshdhawale_/">
+    <img src="https://img.shields.io/badge/Instagram-6D28D9?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
+
 </p>
