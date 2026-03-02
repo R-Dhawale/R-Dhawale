@@ -2,7 +2,7 @@
 <p align="center"><b>Backend-Focused Full Stack Developer</b></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=170&section=header&text=Jujutsu%20Engineer&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=170&section=header&text=Limitless%20Mode:%20Engineer&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=500&lines=Domain+Expansion:+Scalable+Systems;React+%2B+Node.js+Engineer;System+Design+Learner" />
