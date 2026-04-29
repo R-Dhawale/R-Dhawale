@@ -1,54 +1,93 @@
-<h2 align="center">🕯️ HELLO THERE! 🕯️</h2>
-<p align="center">I'm <b>Rushikesh</b> Seeker of the Architect Pathway, a design engineer based in India. I like building clean, modern interfaces with smooth animations and keeping things simple.</p>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0C2A,50:1F1C4D,100:0F0C29&height=180&section=header&text=The%20Tarot%20Club%20:%20Architect%20Pathway&fontSize=24&fontColor=DDD6FE&animation=twinkling"/>
+  <b>Full-Stack Developer | MERN | DSA</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+Scalable+Systems;Mastering+Clean+Architecture;Backend+Pathway+Advancement;Knowledge+Is+Power." />
+  🚀 Building Projects • 📚 Learning Daily • 🌍 India
 </p>
 
 <p align="center">
-  Backend engineer walking the pathway of scalable APIs and production-grade systems.
+  <a href="mailto:your-email@example.com">Email</a> •
+  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
 </p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,ts,js,mysql,git,docker" height="38"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
+
+---
+
+## 📌 Pinned Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce App
+- MERN • Stripe • JWT  
+- Scalable backend + auth  
+
+</td>
+<td width="50%">
+
+### ✅ Task Manager
+- React • Firebase  
+- Real-time task tracking  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 Blog Platform
+- Next.js • MongoDB  
+- Full CRUD + auth  
+
+</td>
+<td width="50%">
+
+### 🌦 Weather Dashboard
+- API • JavaScript  
+- Live weather data  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=R-Dhawale&show_icons=true&theme=tokyonight&hide_border=true" height="115"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Dhawale&theme=tokyonight&hide_border=true" height="115"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R-Dhawale&label=Observers&color=4C1D95&style=flat"/>
+---
+
+## ⚙️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,git" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-Active-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Commits-Consistent-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Focused-5B21B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-Learner-4C1D95?style=for-the-badge"/>
-</p>
+---
 
-<p align="center">
+## 🧠 About Me
 
-  <a href="mailto:dhawalerushikesh22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-312E81?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/rushikesh-dhawale-573772328/">
-    <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/RushiDhawale_">
-    <img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=twitter&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/rushikeshdhawale_/">
-    <img src="https://img.shields.io/badge/Instagram-6D28D9?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+I build scalable web applications and focus on writing clean, maintainable code.
 
-</p>
+---
+
+## 📌 Focus
+
+- System design fundamentals  
+- Backend optimization  
+- Building real-world projects  
